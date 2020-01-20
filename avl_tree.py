@@ -1,4 +1,4 @@
-from lab0_utilities import *
+from utilities import *
 
 	
 	
