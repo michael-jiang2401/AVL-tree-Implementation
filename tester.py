@@ -1,7 +1,7 @@
 # tester script for ESC190 lab 0
-import lab0
-from lab0 import *
-from lab0_utilities import *
+import avl_tree
+from avl_tree import *
+from utilities import *
 
 def test_languages(fname):
     data = open(fname, 'r')
